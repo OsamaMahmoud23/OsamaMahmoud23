@@ -11,7 +11,6 @@
 ## 👨‍💻 About Me
 
 - 💼 Full-Stack Developer at **AlgoStep**
-- 🎓 Graduate in **Full-Stack Development & Data Analytics**
 - 🛠️ I build projects that solve real problems and help people in their daily lives
 - 📈 Passionate about turning data into meaningful insights
 - 🌱 Committed to improving myself a little every single day — because small steps lead to big results
