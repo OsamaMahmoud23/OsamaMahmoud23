@@ -30,13 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsamaMahmoud23&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaMahmoud23&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=OsamaMahmoud23&theme=tokyonight&hide_border=true" />
 </p>
@@ -49,7 +42,8 @@
 |--------|-------------|-------|
 | [CV Builder](https://github.com/OsamaMahmoud23/cv_builder) | Interactive CV builder with live preview, 5 templates & PDF export | HTML, CSS, JS |
 | [BlackJack Game](https://github.com/OsamaMahmoud23/BlackJack-Game) | Classic casino Blackjack with chips management & game logic | JavaScript |
-| [Leads Tracker Extension](https://github.com/OsamaMahmoud23/leads-tracker-chrome-extension) | Chrome extension for tracking web links with LocalStorage | JS, Chrome API |
+| [TerminalTutor](https://github.com/OsamaMahmoud23/CMDschool) | Interactive CLI learning app with terminal simulator,
+  search & command chaining | HTML, CSS, JS |
 | [Data Survey Breakdown](https://github.com/OsamaMahmoud23/Data-Professional-Survey-Breakdown) | Analysis of 630 data professionals survey with Power BI dashboard | SQL, Power BI |
 | [Gas App for Irbid](https://github.com/OsamaMahmoud23/GasApp_For_Irbid) | Full-stack app for managing LPG deliveries in Irbid | HTML, CSS, JS |
 | [Habits Tracker](https://github.com/OsamaMahmoud23/Habits-Tracker) | Daily habit dashboard with streaks, analytics & LocalStorage | JS, CSS |
