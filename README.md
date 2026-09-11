@@ -30,19 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsamaMahmoud23&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaMahmoud23&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OsamaMahmoud23&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
