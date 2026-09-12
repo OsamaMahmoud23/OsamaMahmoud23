@@ -40,6 +40,8 @@
 | [Data Survey Breakdown](https://github.com/OsamaMahmoud23/Data-Professional-Survey-Breakdown) | 630-response data survey analysis with Power BI dashboard | SQL, Power BI |
 | [Gas App for Irbid](https://github.com/OsamaMahmoud23/GasApp_For_Irbid) | Full-stack app for managing LPG deliveries in Irbid | HTML, CSS, JS |
 | [Habits Tracker](https://github.com/OsamaMahmoud23/Habits-Tracker) | Habit dashboard with streaks, analytics & LocalStorage | JS, CSS |
+| [Weather Dashboard](https://github.com/OsamaMahmoud23/weather-dashboard) | Live weather app with 5-day forecast,
+themes & geolocation | HTML, CSS, JS |
 
 ---
 
