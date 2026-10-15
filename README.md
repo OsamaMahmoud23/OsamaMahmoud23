@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=7C3AED&center=true&width=520&lines=Data+Analytics+%40AlgoStep;Data+Analyst+%7C+BI+%26+Insights;Building+projects+that+help+people;Growing+1%25+better+every+day" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 👨‍💻 About Me
